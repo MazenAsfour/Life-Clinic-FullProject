@@ -1,0 +1,234 @@
+.first,.list2,.list3,.list4{
+    display:none 
+  }
+ 
+  label{
+    margin-top:1.5vw;
+    color:#e7990b;
+    font-weight:bold;
+    font-size:1.3vw
+  }
+  .form-control{
+    font-size:16px
+  }
+  
+  .btn{
+    float:right;
+    margin-right:4vw;
+   
+    margin-top:1vw
+  }
+ 
+  body{
+    overflow-x:hidden;
+  }
+  .cur{
+    font-family:cursive;
+    font-size:2vw
+  }
+  table{
+    text-align:center;
+    margin:0 auto;
+  }
+ 
+  .h:hover{
+    color:wheat!important;
+  
+  }
+  .f{
+  margin-top: .8vw !important;
+  line-height:2.1;
+  text-decoration: none !important;
+  color:white;
+  opacity: 1;
+  }
+  .sidebar .nav p, .off-canvas-sidebar .nav p {
+  margin-bottom: 4px !important;
+  color:white;
+  opacity: 1;
+  font-size:1vw
+  }
+  .sidebar .nav li > a, .off-canvas-sidebar .nav li > a {
+   margin:0;
+   padding: 4px 8px;
+}
+
+  .sidebar{
+    background-color:#F99225 !important;
+  }
+  .sidebar .nav li > a, .off-canvas-sidebar .nav li > a{
+    opacity: 1;
+    color:white;
+  }
+  
+  .main-panel{
+  background-color:#efecea;
+}
+.sidebar .logo a.logo-normal, .off-canvas-sidebar .logo a.logo-normal {
+  font-family:lead;
+  font-size: 1.5vw;
+  padding: 11px 15px 8px;
+ 
+}
+.sidebar .nav i, .off-canvas-sidebar .nav i {
+ 
+  margin-right: -8px;
+
+}
+.sidebar .logo a.logo-mini, .off-canvas-sidebar .logo a.logo-mini {
+  opacity: 1;
+  float: none;
+  width: 0;
+  height: 12vw;
+  width: 73%;
+  text-align: center;
+  margin-bottom: -1vw;
+  margin-left: 34px;
+  margin-right: 10px;
+}
+.a {
+  float: left;
+  position: relative;
+  left: -36px;
+  color: white;
+}
+.sliderdetail li,.services li,.work li,.fut li,.prices li,.doctor li,.feedback li{
+margin-left: -6vw !important;
+}
+.ques li,.know li{
+margin-left: -3vw;
+}
+
+.sliderdetail li a:hover,.sliderdetail:hover,.services li a:hover,.work li a:hover,
+.guide:hover,.fut li a:hover,.sub:hover,.prices li a:hover,.doctor li a:hover
+,.feedback li a:hover,.ques li a:hover,.ques:hover,.know li a:hover,.mazen li a:hover,.mazen1:hover,.cl2:hover{
+color:wheat !important;
+cursor: pointer;
+}
+
+.ab {
+  left: -43px;
+  position: absolute;
+  font-size: 1.1vw;
+}
+.active{
+    color:wheat !important
+}
+.sidebar:after, .off-canvas-sidebar:after {
+  background: #66615B;
+  background: linear-gradient(#3a2602,#745b19);
+  z-index: 3;
+}
+.sidebar .nav i, .off-canvas-sidebar .nav i {
+  font-size: 24px;
+  float: right;
+}
+.sidebar .nav p, .off-canvas-sidebar .nav p {
+  text-align: right;
+}
+.sidebar, .off-canvas-sidebar {
+  z-index: 0 !important;
+}
+.sidebar .nav li.active > a, .sidebar .nav li.active > a > i, .off-canvas-sidebar .nav li.active > a, .off-canvas-sidebar .nav li.active > a > i {
+  opacity: 1;
+  display: none;
+}
+ul{
+list-style-type: none ;
+}
+.sidebar .nav li > a, .off-canvas-sidebar .nav li > a {
+  opacity: 1;
+  color: white;
+  text-align: center;
+}
+.list{
+padding: 0;
+margin: 0;
+}
+.sidebar .nav li > a, .off-canvas-sidebar .nav li > a {
+  margin: 0;
+  padding: 2px 8px;
+}
+.sidebar .nav li > a, .off-canvas-sidebar .nav li > a {
+ margin-top: 0;
+  margin-left: 3vw !important;
+  font-size: 1vw;
+}
+.sidebar .nav p, .off-canvas-sidebar .nav p {
+  text-align: right;
+  font-size: 1.19vw;
+}
+.header1 {
+  color: #745b19;
+  /* float: right; */
+  text-align: right;
+  position: relative;
+  right: -65vw;
+  font-size: 1.6vw !important;
+}
+.navbar .form-group.no-border .form-control, .navbar .input-group.no-border .form-control {
+  color: #66615B;
+  position: relative;
+  left: -56vw;
+}
+.form-group.no-border .form-control, .form-group.no-border .form-control + .input-group-prepend .input-group-text, .form-group.no-border .form-control + .input-group-append .input-group-text, .input-group.no-border .form-control, .input-group.no-border .form-control + .input-group-prepend .input-group-text, .input-group.no-border .form-control + .input-group-append .input-group-text {
+  background-color: rgba(222, 222, 222, 0.3);
+  border: medium none;
+  position: relative;
+  left: -56vw;
+}
+.con{
+  position: relative;
+  right: -65vw;
+  font-size: 2vw;
+  margin: 0;
+  padding: .2vw;
+  margin-left: -.7vw !important;
+  color: #745b19;
+}
+.con1 {
+  font-size: 2.5em;
+  position: relative;
+  text-align: center;
+  text-transform: capitalize;
+  right: -19.5vw;
+  margin: .5vw;
+  color: #3a2602;
+  margin-bottom: -18px;
+}
+.sidebar{
+ 
+    float: right !important;
+    position: fixed !important;
+    z-index: 9999 !important;
+    right: 0vw !important;
+    left: 82vw !important;
+    z-index: 0;
+
+}
+.main-panel{
+  position: absolute;
+}
+.nicescroll-rails{
+  position: relative !important
+}
+html{
+  overflow: hidden !important;
+}
+.sidebar{
+  overflow: auto;
+  background-color: #745b19 !important;
+  height: unset;
+
+}
+.sidebar .sidebar-wrapper, .off-canvas-sidebar .sidebar-wrapper {
+  
+  height: unset;
+
+}
+
+@media screen and (min-width: 600px) {
+.sidebar{
+  float: right !important;
+}
+}
